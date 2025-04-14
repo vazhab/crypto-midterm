@@ -2,6 +2,7 @@
 
 **Student:** Vazha Bichiashvili
 **Date:** 14.04.2025
+**Repository** https://github.com/vazhab/crypto-midterm
 
 ## Introduction
 
